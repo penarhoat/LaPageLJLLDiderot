@@ -355,21 +355,17 @@ enableGitInfo = false
   languageCode = "fr-FR"
 [language.fr.params]
  name = "Yves Capdeboscq"
- 
  role = "Mathématicien"
- 
  office_hours = """
  Lundi 11:30 à 12:30<br>
  Mardi 11:30 à 12:30<br>
  ou sur rendez-vous
  """
- 
  date_format = "02 Jan 2006"
- 
  time_format = "15:04"
 
-  [[languages.fr.menu.main]]
- name = "A propos"
+ [[languages.fr.menu.main]]
+ name = "À propos"
  url = "#about"
  weight = 1
 
@@ -383,7 +379,7 @@ enableGitInfo = false
   url = "#posts"
   weight = 3
 
-[[menu.main]]
+[[language.fr.menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 4
