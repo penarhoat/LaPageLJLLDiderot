@@ -71,9 +71,9 @@ enableGitInfo = false
   Ou sur rendez-vous
   """
   phone = "+331 5727 9115"
-  skype = "whysea"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+  # skype = "whysea"
+  # telegram = ""
+  # keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
@@ -265,10 +265,10 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+ # [[params.social]]
+ #   icon = "twitter"
+ #   icon_pack = "fab"
+ #   link = "https://twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
@@ -316,8 +316,8 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
+  name = "Cours"
+  url = "/Cours/"
   weight = 5
 
 [[menu.main]]
