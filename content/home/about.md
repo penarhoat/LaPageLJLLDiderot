@@ -22,12 +22,12 @@ weight = 5
   year = 2006
 
 [[education.courses]]
-  course = "Doctorat de Math&ematiques"
+  course = "Doctorat de Math&eacute;matiques"
   institution = "Sorbonne Universit&eacute; -- UPMC"
   year = 1999
 
 [[education.courses]]
-  course = "Ing&eacute;nieur de l'Ecole Centrale des Arts et Manufactures"
+  course = "Ing&eacute;nieur de l'&Eacute;cole Centrale des Arts et Manufactures"
   institution = "CentraleSup&eacute;lec"
   year = 1995
  
