@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Page personnelle d'Yves Capdeboscq"
+title = "YC"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -53,8 +53,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Yves Capdeboscq"
-  role = "Mathématicien"
-
+  role = "Mathematician"
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "Université Paris Diderot", url = "" } ]
@@ -66,12 +65,13 @@ enableGitInfo = false
   email = "capdeboscq@maths.univ-paris-diderot.fr"
   address = "Bâtiment Sophie Germain, Bureau 5018"
   office_hours = """
-  Lundi 11:30 to 12:30<br>
-  Mardi 11:30 to 12:30<br>
-  Ou sur rendez-vous
+  Monday 11:30 to 12:30<br>
+  Tueday 11:30 to 12:30<br>
+  or by appointment
   """
   phone = "+331 5727 9115"
-  # skype = "whysea"
+ 
+# skype = "whysea"
   # telegram = ""
   # keybase = ""  # Your keybase.io username.
 
@@ -360,8 +360,27 @@ enableGitInfo = false
 
 # Configure the English version of the website.
 [languages.en]
-  languageCode = "en-us"
+  languageCode = "en-UK"
+[languages.fr]
+  languageCode = "fr-FR"
+[language.fr.params]
+ name = "Yves Capdeboscq"
+ role = "Mathématicien"
+ office_hours = """
+  Lundi 11:30 -- 12:30<br>
+  Mardi 11:30 -- 12:30<br>
+  ou sur rendez-vous
+  "
+  date_format = "02 Jan 2006"
+  #   Examples: "3:04 pm" or "15:04"
+  time_format = "15:04"
 
+  [[languages.fr.menu.main]]
+ name = "A propos"
+ url = "#about"
+ weight = 1""
+ 
+ 
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
 #  languageCode = "zh-Hans"
