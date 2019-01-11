@@ -306,24 +306,14 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "Lectures"
   url = "#posts"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Cours"
-  url = "/Cours/"
-  weight = 5
-
-[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 4
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -382,7 +372,21 @@ enableGitInfo = false
  name = "A propos"
  url = "#about"
  weight = 1
- 
+
+[[languages.fr.menu.main]]
+  name = "Publications"
+  url = "#publications_selected"
+  weight = 2
+
+[[languages.fr.menu.main]]
+  name = "Cours"
+  url = "#posts"
+  weight = 3
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 4
  
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
