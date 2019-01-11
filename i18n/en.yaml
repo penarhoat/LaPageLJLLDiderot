@@ -96,7 +96,7 @@
   translation: CONTINUE READING
 
 - id: more_posts
-  translation: More Posts
+  translation: More Lecture notes
 
 # Talks widget
 
@@ -159,7 +159,7 @@
 # Default node titles
 
 - id: posts
-  translation: Posts
+  translation: Lecture notes
 
 - id: publications
   translation: Publications
