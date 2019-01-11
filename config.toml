@@ -367,8 +367,8 @@ enableGitInfo = false
  name = "Yves Capdeboscq"
  role = "Mathématicien"
  office_hours = """
-  Lundi 11:30 -- 12:30<br>
-  Mardi 11:30 -- 12:30<br>
+  Lundi 11:30 à 12:30<br>
+  Mardi 11:30 à 12:30<br>
   ou sur rendez-vous
   ""
   date_format = "02 Jan 2006"
