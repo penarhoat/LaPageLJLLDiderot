@@ -10,26 +10,26 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Partial Differential Equations",
+    "Inverse Problems",
+    "Homogenization"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Habilitation &agrave; diriger des Recherches"
+  institution = "Universit&eacute; de Versailles Saint-Quentin-en-Yvelines"
+  year = 2006
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Doctorat de Math&ematiques"
+  institution = "Sorbonne Universit&eacute; -- UPMC"
+  year = 1999
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Ing&eacute;nieur de l'Ecole Centrale des Arts et Manufactures"
+  institution = "CentraleSup&eacute;lec"
+  year = 1995
  
 +++
 
