@@ -370,7 +370,7 @@ enableGitInfo = false
   Lundi 11:30 -- 12:30<br>
   Mardi 11:30 -- 12:30<br>
   ou sur rendez-vous
-  "
+  ""
   date_format = "02 Jan 2006"
   #   Examples: "3:04 pm" or "15:04"
   time_format = "15:04"
