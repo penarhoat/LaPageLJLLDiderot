@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-Professeur de Mathématiques à l'université Paris Diderot, rattaché au Laboratoire Jacques-Louis Lions.
+Professor of Mathematics at Université Paris Diderot, member of Laboratoire Jacques-Louis Lions.
 
 
 
