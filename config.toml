@@ -372,7 +372,6 @@ enableGitInfo = true
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
-  phone = "+331 5727 9115"
  
  # skype = "whysea"
  
