@@ -50,7 +50,7 @@ enableGitInfo = true
 
 # Configure the English version of the website.
 [languages.en]
-  languageCode = "en-UK"
+  languageCode = "en"
 [language.en.params]
   # AUTHOR SETUP
 
