@@ -29,7 +29,7 @@ disqusShortname = ""
 googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
+defaultContentLanguage = "en-UK"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
@@ -56,7 +56,7 @@ enableGitInfo = false
   role = "Mathematician"
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Université Paris Diderot", url = "" } ]
+  organizations = [ { name = "Université Paris Diderot", url = "https://www.univ-paris-diderot.fr/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -66,7 +66,7 @@ enableGitInfo = false
   address = "Bâtiment Sophie Germain, Bureau 5018"
   office_hours = """
   Monday 11:30 to 12:30<br>
-  Tueday 11:30 to 12:30<br>
+  Tuesday 11:30 to 12:30<br>
   or by appointment
   """
   phone = "+331 5727 9115"
