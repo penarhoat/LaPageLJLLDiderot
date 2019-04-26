@@ -56,10 +56,10 @@ enableGitInfo = true
 
   # Your details.
   name = "Yves Capdeboscq"
-  role = "Mathematician"
+  role = "Mathématicien"
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Université Paris Diderot", url = "https://www.univ-paris-diderot.fr/" } ]
+  organizations = [ { name = "Université de Paris", url = "https://www.univ-paris-diderot.fr/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -365,7 +365,7 @@ enableGitInfo = true
  address = "Bâtiment Sophie Germain, Bureau 5018"
  phone = "01 57 27 91 15"
 
-  organizations = [ { name = "Université Paris Diderot", url = "https://www.univ-paris-diderot.fr/" }, 
+  organizations = [ { name = "Université de Paris", url = "https://www.univ-paris-diderot.fr/" }, 
  { name = "Laboratoire Jacques-Louis Lions", url = "https://www.ljll.math.upmc.fr/fr/" }  ]
  #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
  
